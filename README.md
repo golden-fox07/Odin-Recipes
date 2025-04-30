@@ -1,10 +1,10 @@
-# odin-recipes 
+# Odin-Recipes 
 
 This is the first project in the Odin Project Foundations section, where I'm creating a recipe book site using basic HTML. I'm focusing on setting up the boilerplate, working with some simple tags, and organizing the files. 🍁
 
 Live Demo : <a href = "https://golden-fox07.github.io/odin-recipes/" target="blank_"> Recipes </a>
 
-## Overview
+# Overview
 
 This project, titled <a href="https://www.theodinproject.com/lessons/foundations-recipes" target="blank_">Project: Recipes</a> was assigned as part of<a href="https://www.theodinproject.com/"> The Odin Project</a> curriculum. It is a basic website consisting of a home page along with three individual recipe pages.
 
